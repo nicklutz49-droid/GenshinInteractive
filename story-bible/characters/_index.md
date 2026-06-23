@@ -15,12 +15,12 @@ reference and gets a doc when they cross Aether's path.
 | **Aether** | Sumeru STEM — first-year (PC) | — (player) | ✅ | [aether.md](aether.md) |
 | **Lumine** | Sumeru STEM — first-year (Aether's twin) | No | ✅ | [lumine.md](lumine.md) |
 | **Alhaitham** | Sumeru STEM — dorm neighbor (305) | No | ✅ | [alhaitham.md](alhaitham.md) |
-| **Collei** | Sumeru STEM — first-year | No | ✅ | [collei.md](collei.md) |
+| **Collei** | Sumeru STEM — first-year | Yes* | ✅ | [collei.md](collei.md) |
 | **Cyno** | Sumeru STEM — 3rd-floor RA | No | ✅ | [cyno.md](cyno.md) |
 | **Kaveh** | Sumeru STEM — architecture (306) | No | ✅ | [kaveh.md](kaveh.md) |
 | **Layla** | Sumeru STEM — student (312) | No | ✅ | [layla.md](layla.md) |
 | **Nahida** | Sumeru STEM — prodigy / Akademiya Society founder | No | ✅ | [nahida.md](nahida.md) |
-| **Dehya** | Sumeru STEM — applied physics (308) | No | ✅ | [dehya.md](dehya.md) |
+| **Dehya** | Sumeru STEM — applied physics (308) | Yes* | ✅ | [dehya.md](dehya.md) |
 | **Freminet** | Fontaine — mechanical eng.; Aether's roommate (304) | No | ✅ | [freminet.md](freminet.md) |
 
 ---
@@ -29,6 +29,8 @@ reference and gets a doc when they cross Aether's path.
 
 | Character | College | Status | Doc |
 |---|---|---|---|
+| **Collei** | Sumeru STEM | ✅ | [collei.md](collei.md) |
+| **Dehya** | Sumeru STEM | ✅ | [dehya.md](dehya.md) |
 | **Hu Tao** | Liyue Business | ✅ | [hu-tao.md](hu-tao.md) |
 | **Keqing** | Liyue Business | 🕓 | — |
 | **Ganyu** | Liyue Business | 🕓 | — |
@@ -40,6 +42,8 @@ reference and gets a doc when they cross Aether's path.
 | **Navia** | Fontaine Law & Performing Arts | 🕓 | — |
 | **Chiori** | Off-campus boutique (Design alumni) | 🕓 | — |
 | **Clorinde** | Fontaine Law & Performing Arts | 🕓 | — |
+
+> \*Collei and Dehya were originally written as non-romance found-family friends; the three-way (Aether/Collei/Dehya) romance opened organically in Chapter 5 ('House Rules').
 
 See [Romance Framework](../setting/romance-framework.md) for personality notes.
 

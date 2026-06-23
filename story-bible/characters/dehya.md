@@ -4,7 +4,7 @@
 |---|---|
 | **College / Role** | Sumeru STEM & Research Institute — applied physics (materials science focus); Floor 3 resident, room 308 |
 | **Year / Status** | Second year (transferred in) |
-| **Romance option** | No |
+| **Romance option** | Yes (opened Ch 5) |
 | **First appeared** | Chapter 3 — Floor Three, Mostly Accounted For |
 
 ## Quick Reference
@@ -22,8 +22,8 @@ Transferred in as a second-year from a smaller school, knew no one; landed on a 
 **The thing she doesn't tell people (revealed Ch 4):** Dehya has been "the wall" since childhood. Her mom worked nights and her dad wasn't really present, so for years *she* was the one who made sure her younger brother ate, did his homework, and didn't burn the place down — he literally called her "mom." She came to college hoping to *put that role down* and just be a normal student who let someone else carry things for once. Instead she picked it right back up here, by choice — "it's not a coat you take off. It's just who I am. So if I'm gonna be the wall anyway, might as well pick what I'm holding up." She is private about all of this; she told Aether only because he noticed she was the last one cleaning up. *Don't make it a thing.*
 
 ## Relationship with Aether
-- **Current status:** Stranger → Acquaintance → Friend → **Close** → Romantic Interest
-- **Affection:** 6/10
+- **Current status:** Close → **Budding Romantic Interest**
+- **Affection:** 7/10
 - **Key moments:**
   - Introduced herself to Aether across the room at the meeting.
   - Warned him about Kaveh borrowing things.
@@ -34,11 +34,13 @@ Transferred in as a second-year from a smaller school, knew no one; landed on a 
   - Let her usual armor drop briefly when he connected "build things that hold" to her own story.
   - **(Ch 4)** Aether's clumsy "mom of the floor" comment cracked something open; on the midnight walk she confided her brother / "the wall" history. He gave her the *light* version when she needed it; she specifically thanked him for "knowing which version I wanted."
   - **(Ch 4)** Co-founded the trio friend group with Aether and Collei — the "Load-Bearing Society."
+  - **(Ch 5)** At the trio's game night, dropped her caretaker wall and admitted she has feelings for both Aether and Collei — then, being Dehya, insisted they not act on it while tipsy: "if it's real, it's real on Tuesday, sober." Part of the "real on Tuesday" pact.
 
 ## Voice / Speech Notes
 Declarative, dry, no padding. Warm underneath. Sample: "Everyone's a gremlin, Aether. Some of us are just orderly about it." / "I just don't let the door close on them. It's not complicated. It's just the thing I wish somebody'd done."
 
 ## Running Threads
+- **The three-way (poly) dynamic** with Aether and Collei; the "real on Tuesday" pact; learning to be wanted, not just needed.
 - **The Load-Bearing Society** — the trio friend group with Aether and Collei; standing Tuesday movie night + midnight convenience-store run.
 - Her younger brother / family back home; the "wall" she can't fully put down.
 - Tuesday movie night (her institution).
@@ -49,3 +51,4 @@ Declarative, dry, no padding. Warm underneath. Sample: "Everyone's a gremlin, Ae
 ## Appearance Log
 - **Ch 3 — Floor Three, Mostly Accounted For:** Arrived at the floor meeting, befriended Aether on sight, recited the campus emergency line from memory, championed Collei's almond tofu rounds, then helped Aether welcome Freminet — sharing her own transfer backstory along the way.
 - **Ch 4 — Load-Bearing:** Hosted Tuesday movie night; cleaned up alone after as usual; opened up to Aether on the midnight run about her brother and her lifelong role as "the wall"; co-founded the Load-Bearing Society with Aether and Collei.
+- **Ch 5 — House Rules:** Brought the drinks and the "no heroes" rule to Aether's first hosted game night; confessed mutual feelings; set the careful pact to revisit it sober.

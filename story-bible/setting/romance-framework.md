@@ -24,3 +24,7 @@
 | Navia | Fontaine Law & Performing Arts | Law major; family business troubles in background; charismatic and warm; protective of people she cares about |
 | Chiori | Off-campus boutique owner, Design alumni | Perfectionist fashion designer; sharp tongue; shop near campus is a regular hangout; slow to trust |
 | Clorinde | Fontaine Law & Performing Arts | Criminal justice major; quiet and professional; complicated past she rarely mentions |
+
+## Update — Chapter 5: The Load-Bearing Society (poly route)
+
+As of Chapter 5 ('House Rules'), the story opened a **three-way (polyamorous) slow-burn** between Aether, **Dehya**, and **Collei** — both originally written as non-romance found-family characters. All three confessed mutual feelings at a game night but agreed NOT to act on it while tipsy, making a pact to revisit it sober ('real on Tuesday'). This is an intentional, player-directed departure from the original romance-options roster. The slow-burn rules still apply: nothing physical/overt yet; feelings build carefully; the central tension is now what this becomes when they talk in daylight.

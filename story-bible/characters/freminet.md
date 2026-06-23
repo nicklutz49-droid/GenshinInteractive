@@ -41,3 +41,4 @@ Soft, careful, apologetic, precise. Opens up when the topic is something he love
 ## Appearance Log
 - **Ch 3 — Floor Three, Mostly Accounted For:** Revealed as Aether's roommate at last; introduced over a disassembled dive computer; gently folded into Floor 3 by Dehya; wrote an intro card.
 - **Ch 4 — Load-Bearing:** Came to Dehya's movie night 'for a while' and stayed the whole film — a small but real step out of his shell; gave Aether a wordless 'glad I came' nod on the way out.
+- **Ch 5 — House Rules:** Offscreen — away on a dive-club trip (a real step out of his shell), leaving Aether the room with a gruff blessing ('the succulent likes the windowsill; don't move it').

@@ -55,8 +55,9 @@ when Aether's path crosses theirs. To keep this bible aligned with that rule:
 
 ## 📊 Current Status
 
-- **Chapter:** 4 — *Load-Bearing* ✅ complete; Chapter 5 next
+- **Chapter:** 5 — *House Rules* ✅ complete; Chapter 6 next
 - **Semester:** Fall, Year 1
 - **Characters with full docs:** Aether, Lumine, Alhaitham, Collei, Cyno, Kaveh, Layla, Nahida, Hu Tao, Venti, Yoimiya, Dehya, Freminet
 - **Locations established:** Sumeru Dormitory, Room 304, Inner Courtyard, Central Quad, Third-Floor Common Room, Campus Convenience Store
-- **Open threads:** Load-Bearing Society (Aether/Dehya/Collei trio), Dehya's family history, Freminet coming out of his shell, major undecided, part-time job, Yoimiya photo walk, Akademiya Society, ghost tour, open mic, robotics, climbing team (Lumine)
+- **Romance routes active:** the Aether/Dehya/Collei three-way (poly) slow burn — feelings confessed Ch 5, not yet acted on ("real on Tuesday" pact)
+- **Open threads:** the "real on Tuesday" pact, Load-Bearing Society, Dehya being wanted-not-needed, Collei's growth, Freminet's diving, major undecided, part-time job, Yoimiya photo walk, Akademiya, ghost tour, open mic, robotics
