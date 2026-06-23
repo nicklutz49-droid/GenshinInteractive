@@ -55,9 +55,9 @@ when Aether's path crosses theirs. To keep this bible aligned with that rule:
 
 ## 📊 Current Status
 
-- **Chapter:** 5 — *House Rules* ✅ complete; Chapter 6 next
+- **Chapter:** 6 — *In Daylight* ✅ complete; Chapter 7 next
 - **Semester:** Fall, Year 1
 - **Characters with full docs:** Aether, Lumine, Alhaitham, Collei, Cyno, Kaveh, Layla, Nahida, Hu Tao, Venti, Yoimiya, Dehya, Freminet
-- **Locations established:** Sumeru Dormitory, Room 304, Inner Courtyard, Central Quad, Third-Floor Common Room, Campus Convenience Store
-- **Romance routes active:** the Aether/Dehya/Collei three-way (poly) slow burn — feelings confessed Ch 5, not yet acted on ("real on Tuesday" pact)
-- **Open threads:** the "real on Tuesday" pact, Load-Bearing Society, Dehya being wanted-not-needed, Collei's growth, Freminet's diving, major undecided, part-time job, Yoimiya photo walk, Akademiya, ghost tour, open mic, robotics
+- **Locations established:** Sumeru Dormitory, Room 304, Inner Courtyard, Central Quad, Third-Floor Common Room, Campus Convenience Store, Campus Garden
+- **Romance:** the Aether/Dehya/Collei three-way relationship is OFFICIAL (Ch 6) — first kisses; ground rule "we talk"
+- **Open threads:** living the new relationship (no map), the "we talk" rule, telling Freminet/Lumine/the floor (public vs private), Dehya learning to receive, major undecided, part-time job, Yoimiya, Akademiya, ghost tour, open mic, robotics

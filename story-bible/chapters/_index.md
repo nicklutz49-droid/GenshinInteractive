@@ -7,6 +7,7 @@
 | 3 | *Floor Three, Mostly Accounted For* | ✅ Complete | [chapter-03-floor-meeting.md](chapter-03-floor-meeting.md) |
 | 4 | *Load-Bearing* | ✅ Complete | [chapter-04-load-bearing.md](chapter-04-load-bearing.md) |
 | 5 | *House Rules* | ✅ Complete | [chapter-05-house-rules.md](chapter-05-house-rules.md) |
+| 6 | *In Daylight* | ✅ Complete | [chapter-06-in-daylight.md](chapter-06-in-daylight.md) |
 
 **Status key:** 🟢 In progress · ✅ Complete (recap saved)
 

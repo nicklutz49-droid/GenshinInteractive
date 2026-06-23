@@ -18,6 +18,7 @@ takes place there.
 | **Central Quad** | University-wide | ✅ | [central-quad.md](central-quad.md) |
 | **Third-Floor Common Room** | Sumeru dorm, 3rd floor | ✅ | [third-floor-common-room.md](third-floor-common-room.md) |
 | **Campus Convenience Store** | Near Sumeru wing | ✅ | [campus-convenience-store.md](campus-convenience-store.md) |
+| **Campus Garden** | University-wide | ✅ | [campus-garden.md](campus-garden.md) |
 
 ---
 
@@ -28,6 +29,5 @@ takes place there.
 | **The Library** | Venti busks outside it; Aether has heard the ukulele from here multiple times; not yet entered |
 | **Dining Hall** | Chaotic; near the library |
 | **Chiori's Boutique** | Off-campus clothing shop; cross-department hangout |
-| **Campus Garden** | Where Kazuha is often found |
 | **Nilou's dance/fitness classes** | Popular across campus |
 | **The five college areas** | Mondstadt, Liyue, Inazuma, Sumeru, Fontaine — see [campus overview](campus-overview.md) |
