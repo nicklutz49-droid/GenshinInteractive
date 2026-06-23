@@ -1,6 +1,6 @@
 # Chapter 1 — *Everything Smells Like Cardboard and New Beginnings*
 
-> **Status:** In progress — awaiting the player's first choice.
+> **Status:** ✅ Complete.
 > **Setting:** Move-in day, Fall, Year 1. Sumeru dormitory wing.
 
 ---
@@ -38,23 +38,54 @@ playing a tiny guitar outside the library, telling him to come find her "or don'
 adult, allegedly." The first real decision of his college life, and somehow it felt
 enormous.
 
+**[Choice D]** Aether seized the move-in energy and wandered the floor. In **306** he
+met **Kaveh**, a dramatic blond architecture student mid-crisis over his room's "dead"
+north-facing light — who lit up at a sincere compliment to his drawings, declared they'd
+be friends, and revealed he's Alhaitham's long-suffering roommate. Further down the hall
+he found **Layla**, a sleep-deprived STEM floormate lost on the way to room 312; Aether
+helped her orient and they bonded over neither having it figured out.
+
+**[Choices F → A]** Back at 304, Aether finished unpacking (the room became *a* room),
+then texted Lumine and braved the chaotic-but-warm dining hall. Over stolen fries and a
+hard-won soft serve, the twins reconnected; Lumine quietly checked he was okay, and he
+realized he meant it when he said he was. A busker with a tiny guitar played by the
+doors. He walked back to a hushed hallway, turned off the lamp — and at 2 a.m., exactly
+as promised, the radiator made a sound like a dying whale, and he fell asleep laughing.
+
 ---
 
-## Choices Presented
+## Choices Made
 
-> *What does Aether do?*
-
-- **A)** Knock on Alhaitham's door and ask where the nearest place to get dinner is. *(cautious/polite)*
-- **B)** Text Lumine back and go find her at the dining hall. *(friendly/warm)*
-- **C)** Stay and finish unpacking — can't relax until the bed is made. *(earnest/practical)*
-- **D)** Wander the floor and introduce himself to more neighbors. *(bold)*
-- **E)** Track down Collei and offer to help finish the welcome packets. *(earnest/avoidant)*
-- **F)** Go investigate the busker outside the library. *(curious/unexpected)*
-
-**Player choice:** _(pending)_
+- **D)** Wander the floor and introduce himself to more neighbors → introduced **Kaveh**
+  and **Layla** on day one.
+- **F → A)** Finish unpacking, then dinner with Lumine → practical-then-warm close; sibling
+  bond beat; closed out the chapter.
 
 ---
 
 ## Recap
 
-_(Will be filled in when the chapter completes — see end-of-chapter summary format.)_
+**What happened:** Aether and Lumine arrived for move-in day and settled into the Sumeru
+dorm. Aether unpacked into Room 304, met his floor over one overwhelming afternoon, chose
+to meet more neighbors (Kaveh, Layla), then finished settling in and shared a warm dinner
+with Lumine before turning in. Day one ended hopeful — and with the radiator's 2 a.m.
+whale impression.
+
+**Characters who appeared:** Lumine, Alhaitham, Collei, Cyno, Kaveh *(new)*, Layla *(new)*.
+
+**Relationship updates:**
+- **Kaveh** → Acquaintance (3/10) — instant rapport over a sincere compliment.
+- **Layla** → Acquaintance (2/10) — a genuine "neither of us has it figured out" moment.
+- **Alhaitham/Kaveh** frenemy-roommate dynamic revealed.
+- **Lumine** — sibling bond reaffirmed.
+
+**Active story threads:**
+- 🛏️ The empty second bed — Aether's roommate hasn't arrived.
+- 🏛️ Kaveh & Alhaitham — frenemy roommates next door.
+- 🎓 Major undecided.
+- 💼 Part-time job / financial reality — not yet addressed.
+- 🎺 The library busker (tiny guitar) — glimpsed twice, not yet met.
+- 📅 Friday floor meeting (Cyno's, with snacks and more puns).
+
+**Coming up:** A new day and a campus to navigate in daylight — and a roommate who still
+hasn't turned up.

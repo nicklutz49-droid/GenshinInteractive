@@ -55,7 +55,8 @@ when Aether's path crosses theirs. To keep this bible aligned with that rule:
 
 ## 📊 Current Status
 
-- **Chapter:** 1 — *Everything Smells Like Cardboard and New Beginnings* (in progress)
+- **Chapter:** 1 — *Everything Smells Like Cardboard and New Beginnings* ✅ complete; Chapter 2 next
 - **Semester:** Fall, Year 1
-- **Characters with full docs:** Aether, Lumine, Alhaitham, Collei, Cyno
+- **Characters with full docs:** Aether, Lumine, Alhaitham, Collei, Cyno, Kaveh, Layla
 - **Locations established:** Sumeru Dormitory, Room 304, Inner Courtyard
+- **Open threads:** roommate (empty 2nd bed), major undecided, part-time job, library busker, Friday floor meeting

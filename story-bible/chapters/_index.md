@@ -2,7 +2,7 @@
 
 | # | Title | Status | Doc |
 |---|---|---|---|
-| 1 | *Everything Smells Like Cardboard and New Beginnings* | 🟢 In progress (awaiting first choice) | [chapter-01-move-in-day.md](chapter-01-move-in-day.md) |
+| 1 | *Everything Smells Like Cardboard and New Beginnings* | ✅ Complete | [chapter-01-move-in-day.md](chapter-01-move-in-day.md) |
 
 **Status key:** 🟢 In progress · ✅ Complete (recap saved)
 

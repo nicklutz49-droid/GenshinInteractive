@@ -17,6 +17,8 @@ reference and gets a doc when they cross Aether's path.
 | **Alhaitham** | Sumeru STEM — dorm neighbor (305) | No | ✅ | [alhaitham.md](alhaitham.md) |
 | **Collei** | Sumeru STEM — first-year | No | ✅ | [collei.md](collei.md) |
 | **Cyno** | Sumeru STEM — 3rd-floor RA | No | ✅ | [cyno.md](cyno.md) |
+| **Kaveh** | Sumeru STEM — architecture (306) | No | ✅ | [kaveh.md](kaveh.md) |
+| **Layla** | Sumeru STEM — student (312) | No | ✅ | [layla.md](layla.md) |
 
 ---
 
@@ -47,8 +49,9 @@ See [Romance Framework](../setting/romance-framework.md) for personality notes.
 | Character | Role | Status | Doc |
 |---|---|---|---|
 | **Nahida** | Academic prodigy; informal mentor to everyone | 🕓 | — |
-| **Kaveh** | Architecture student; Alhaitham's roommate/frenemy | 🕓 | — |
 | **Tighnari** | Biology grad-student TA; Collei's mentor | 🕓 | — |
+
+> *Kaveh has appeared — see [Core Cast](#core-cast-aethers-world) above.*
 
 **Cross-campus regulars:**
 
