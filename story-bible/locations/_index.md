@@ -15,6 +15,7 @@ takes place there.
 | **Room 304** | Sumeru dorm, 3rd floor | ✅ | [room-304.md](room-304.md) |
 | **Inner Courtyard** | Sumeru dorm | ✅ | [inner-courtyard.md](inner-courtyard.md) |
 | **Campus Overview** | University-wide | 🟡 | [campus-overview.md](campus-overview.md) |
+| **Central Quad** | University-wide | ✅ | [central-quad.md](central-quad.md) |
 
 ---
 
@@ -22,7 +23,7 @@ takes place there.
 
 | Location | Notes |
 |---|---|
-| **The Library** | Venti busks outside it with a tiny guitar |
+| **The Library** | Venti busks outside it; Aether has heard the ukulele from here multiple times; not yet entered |
 | **Dining Hall** | Chaotic; near the library |
 | **Chiori's Boutique** | Off-campus clothing shop; cross-department hangout |
 | **Campus Garden** | Where Kazuha is often found |

@@ -19,6 +19,7 @@ reference and gets a doc when they cross Aether's path.
 | **Cyno** | Sumeru STEM — 3rd-floor RA | No | ✅ | [cyno.md](cyno.md) |
 | **Kaveh** | Sumeru STEM — architecture (306) | No | ✅ | [kaveh.md](kaveh.md) |
 | **Layla** | Sumeru STEM — student (312) | No | ✅ | [layla.md](layla.md) |
+| **Nahida** | Sumeru STEM — prodigy / Akademiya Society founder | No | ✅ | [nahida.md](nahida.md) |
 
 ---
 
@@ -26,12 +27,12 @@ reference and gets a doc when they cross Aether's path.
 
 | Character | College | Status | Doc |
 |---|---|---|---|
-| **Hu Tao** | Liyue Business | 🕓 | — |
+| **Hu Tao** | Liyue Business | ✅ | [hu-tao.md](hu-tao.md) |
 | **Keqing** | Liyue Business | 🕓 | — |
 | **Ganyu** | Liyue Business | 🕓 | — |
 | **Kokomi** | Inazuma Fashion | 🕓 | — |
 | **Ayaka** | Inazuma Fashion | 🕓 | — |
-| **Yoimiya** | Inazuma Fashion | 🕓 | — |
+| **Yoimiya** | Inazuma Fashion | ✅ | [yoimiya.md](yoimiya.md) |
 | **Nilou** | Fontaine Performing Arts | 🕓 | — |
 | **Furina** | Fontaine Law & Performing Arts | 🕓 | — |
 | **Navia** | Fontaine Law & Performing Arts | 🕓 | — |
@@ -48,7 +49,6 @@ See [Romance Framework](../setting/romance-framework.md) for personality notes.
 
 | Character | Role | Status | Doc |
 |---|---|---|---|
-| **Nahida** | Academic prodigy; informal mentor to everyone | 🕓 | — |
 | **Tighnari** | Biology grad-student TA; Collei's mentor | 🕓 | — |
 
 > *Kaveh has appeared — see [Core Cast](#core-cast-aethers-world) above.*
@@ -57,7 +57,7 @@ See [Romance Framework](../setting/romance-framework.md) for personality notes.
 
 | Character | Role | Status | Doc |
 |---|---|---|---|
-| **Venti** | Mondstadt music major; busks outside the library | 🕓 | — |
+| **Venti** | Mondstadt music major; busks outside the library | ✅ | [venti.md](venti.md) |
 | **Zhongli** | History professor / senior TA | 🕓 | — |
 | **Kaeya** | Mondstadt student; mysteriously well-connected | 🕓 | — |
 | **Thoma** | Inazuma RA; universally liked; campus-advice guy | 🕓 | — |

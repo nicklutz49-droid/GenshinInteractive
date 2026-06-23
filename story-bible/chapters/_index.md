@@ -3,6 +3,7 @@
 | # | Title | Status | Doc |
 |---|---|---|---|
 | 1 | *Everything Smells Like Cardboard and New Beginnings* | ✅ Complete | [chapter-01-move-in-day.md](chapter-01-move-in-day.md) |
+| 2 | *A Hundred Tables and the Tyranny of Choice* | ✅ Complete | [chapter-02-club-fair.md](chapter-02-club-fair.md) |
 
 **Status key:** 🟢 In progress · ✅ Complete (recap saved)
 
