@@ -1,0 +1,30 @@
+# 📍 Location Index
+
+Places established in **Teyvat University**. New locations get a doc when a scene
+takes place there.
+
+**Status key:** ✅ Visited · 🟡 Partially established · 🕓 Referenced only
+
+---
+
+## Established
+
+| Location | Area | Status | Doc |
+|---|---|---|---|
+| **Sumeru Dormitory** | Sumeru wing | ✅ | [sumeru-dormitory.md](sumeru-dormitory.md) |
+| **Room 304** | Sumeru dorm, 3rd floor | ✅ | [room-304.md](room-304.md) |
+| **Inner Courtyard** | Sumeru dorm | ✅ | [inner-courtyard.md](inner-courtyard.md) |
+| **Campus Overview** | University-wide | 🟡 | [campus-overview.md](campus-overview.md) |
+
+---
+
+## Referenced, Not Yet Visited
+
+| Location | Notes |
+|---|---|
+| **The Library** | Venti busks outside it with a tiny guitar |
+| **Dining Hall** | Chaotic; near the library |
+| **Chiori's Boutique** | Off-campus clothing shop; cross-department hangout |
+| **Campus Garden** | Where Kazuha is often found |
+| **Nilou's dance/fitness classes** | Popular across campus |
+| **The five college areas** | Mondstadt, Liyue, Inazuma, Sumeru, Fontaine — see [campus overview](campus-overview.md) |
