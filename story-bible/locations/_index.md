@@ -17,6 +17,7 @@ takes place there.
 | **Campus Overview** | University-wide | 🟡 | [campus-overview.md](campus-overview.md) |
 | **Central Quad** | University-wide | ✅ | [central-quad.md](central-quad.md) |
 | **Third-Floor Common Room** | Sumeru dorm, 3rd floor | ✅ | [third-floor-common-room.md](third-floor-common-room.md) |
+| **Campus Convenience Store** | Near Sumeru wing | ✅ | [campus-convenience-store.md](campus-convenience-store.md) |
 
 ---
 
