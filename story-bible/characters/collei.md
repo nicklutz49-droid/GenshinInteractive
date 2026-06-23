@@ -38,3 +38,4 @@ Hesitant and self-correcting, with trailing "um"s, but genuinely sweet. Soft, ap
 ## Appearance Log
 - **Ch 1 — Move-In Day:** Delivered welcome packets as an RA volunteer (campus map, dining hours, an expired convenience-store coupon); bonded briefly with Aether over both being lost/undecided first-years; got flustered when Cyno arrived.
 - **Ch 2 — A Hundred Tables...:** Wandered the fair similarly unmoored; brought Aether to Nahida's Akademiya Society table; separately vouched for Aether to Yoimiya before they'd spoken again ("kind," "makes things feel less scary without trying to").
+- **Ch 3 — Floor Three, Mostly Accounted For:** Saved Aether a seat at the floor meeting; brought homemade Mondstadt almond tofu rounds from home that quietly stole the night; answered Cyno's questions before he could ask them.

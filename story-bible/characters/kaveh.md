@@ -38,3 +38,4 @@ Theatrical, rapid, emotionally heightened, but warm and funny with it. Italics-w
 
 ## Appearance Log
 - **Ch 1 — Move-In Day:** Met Aether while agonizing over his room's lighting; bonded over a sincere compliment to his drawings; revealed the Alhaitham roommate dynamic.
+- **Ch 3 — Floor Three, Mostly Accounted For:** Claimed the seat next to Aether; graded Cyno's puns in his sketchbook; ongoing feud with Dehya over a borrowed speaker he kept for eleven weeks 'acoustically.'

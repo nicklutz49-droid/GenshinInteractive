@@ -37,3 +37,4 @@ Dry, matter-of-fact, almost clinical statements. Understated wit. Says exactly w
 
 ## Appearance Log
 - **Ch 1 — Move-In Day:** Knocked on Aether's door, introduced himself flatly, warned about the noisy radiator, noticed Aether reads, and left.
+- **Ch 3 — Floor Three, Mostly Accounted For:** Read silently through the entire floor meeting; turned a page when Cyno made prolonged eye contact.

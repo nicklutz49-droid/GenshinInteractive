@@ -35,3 +35,4 @@ Soft, hesitant, self-correcting, apologetic — but with a dry, tired wit undern
 
 ## Appearance Log
 - **Ch 1 — Move-In Day:** Found sitting in the hallway, lost on the way to room 312; Aether helped orient her and they bonded over not having it figured out.
+- **Ch 3 — Floor Three, Mostly Accounted For:** At the floor meeting, clearer-eyed than move-in day; took diligent (then mortified) notes.

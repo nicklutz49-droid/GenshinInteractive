@@ -38,3 +38,4 @@ Clipped, serious, formal — punctuated by deadpan dad-joke puns delivered with 
 
 ## Appearance Log
 - **Ch 1 — Move-In Day:** Came looking for Collei about overdue welcome packets, welcomed Aether to room 304, mentioned the Friday floor meeting with snacks, and made a deadpan "bear necessities" pun.
+- **Ch 3 — Floor Three, Mostly Accounted For:** Ran the first floor meeting of the fall semester ('load-bearing walls,' the intro board, Tuesday movie night); delivered five-to-nine puns straight-faced; underneath it, plainly cares ('Floor Three takes care of its own').

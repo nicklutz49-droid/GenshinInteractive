@@ -20,6 +20,8 @@ reference and gets a doc when they cross Aether's path.
 | **Kaveh** | Sumeru STEM — architecture (306) | No | ✅ | [kaveh.md](kaveh.md) |
 | **Layla** | Sumeru STEM — student (312) | No | ✅ | [layla.md](layla.md) |
 | **Nahida** | Sumeru STEM — prodigy / Akademiya Society founder | No | ✅ | [nahida.md](nahida.md) |
+| **Dehya** | Sumeru STEM — applied physics (308) | No | ✅ | [dehya.md](dehya.md) |
+| **Freminet** | Fontaine — mechanical eng.; Aether's roommate (304) | No | ✅ | [freminet.md](freminet.md) |
 
 ---
 
@@ -70,6 +72,6 @@ See [Romance Framework](../setting/romance-framework.md) for personality notes.
 - **Mondstadt — Arts & Music:** Diluc, Fischl, Eula, Jean, Amber, Lisa, Razor
 - **Liyue — Business & Culture:** Zhongli, Xiao, Ningguang, Beidou, Xinyan, Yanfei
 - **Inazuma — Fashion & Design:** Sara, Gorou, Itto, Yae Miko
-- **Fontaine — Law & Performing Arts:** Neuvillette, Wriothesley, Lynette, Lyney, Freminet
+- **Fontaine — Law & Performing Arts:** Neuvillette, Wriothesley, Lynette, Lyney
 
 > **Note:** Paimon does **not** exist in this AU.

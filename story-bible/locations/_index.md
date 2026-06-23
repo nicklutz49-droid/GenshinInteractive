@@ -16,6 +16,7 @@ takes place there.
 | **Inner Courtyard** | Sumeru dorm | ✅ | [inner-courtyard.md](inner-courtyard.md) |
 | **Campus Overview** | University-wide | 🟡 | [campus-overview.md](campus-overview.md) |
 | **Central Quad** | University-wide | ✅ | [central-quad.md](central-quad.md) |
+| **Third-Floor Common Room** | Sumeru dorm, 3rd floor | ✅ | [third-floor-common-room.md](third-floor-common-room.md) |
 
 ---
 
